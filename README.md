@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [DEMO](https://allenprell.github.io/fairerdice/)
+
+Fairer Dice is a web application built using React and Material-UI.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
